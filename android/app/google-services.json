@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791669564750",
+    "project_id": "brewcrew-c0628",
+    "storage_bucket": "brewcrew-c0628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791669564750:android:ee34c20227d4f42a336a1f",
+        "android_client_info": {
+          "package_name": "com.hiral.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791669564750-81ce41755clltr5vlerrhg7ekuiimq21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC7w58gP_RIO5bjHH-gzx3au14vtFcWGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791669564750-81ce41755clltr5vlerrhg7ekuiimq21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
